@@ -18,8 +18,6 @@ git commit -m "Initial commit"
 git remote add origin https://github.com/yourusername/your-repo.git
 git push -u origin main
  
-# BLANK APP
-
 cd path/to/your/project
 git init
 git add .
